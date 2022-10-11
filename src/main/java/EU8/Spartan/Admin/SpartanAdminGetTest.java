@@ -24,7 +24,7 @@ public class SpartanAdminGetTest {
         @BeforeAll
         public static void init(){
             //save baseurl inside this variable so that we dont need to type each http method.
-            baseURI = "http://44.195.19.167:7000";
+            baseURI = "http://3.83.40.21:7000";
 
         }
 

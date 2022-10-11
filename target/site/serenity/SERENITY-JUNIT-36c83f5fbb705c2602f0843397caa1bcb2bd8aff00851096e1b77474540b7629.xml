@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="EU8.Spartan.Admin.SpartanAdminGetTest" skipped="0" tests="3" time="4.35" timestamp="2022-08-04 01:53:16"><testcase classname="EU8.Spartan.Admin.SpartanAdminGetTest" name="GET request with Serenity Assertion way"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="EU8.Spartan.Admin.SpartanAdminGetTest" skipped="0" tests="3" time="9.08" timestamp="2022-08-04 01:58:27"><testcase classname="EU8.Spartan.Admin.SpartanAdminGetTest" name="GET request with Serenity Assertion way"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
 Expected status code &lt;201&gt; but was &lt;200&gt;.
 </failure><system-err>1 expectation failed.
 Expected status code &lt;201&gt; but was &lt;200&gt;.
